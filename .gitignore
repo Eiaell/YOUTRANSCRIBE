@@ -1,0 +1,12 @@
+# entornos virtuales
+.venv/
+env/
+venv/
+# artefactos PyInstaller
+dist/
+build/
+# ficheros generados
+transcriptions/
+*.mp3
+*.webm
+*.exe
